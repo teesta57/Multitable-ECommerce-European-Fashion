@@ -83,13 +83,13 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 ```
 .
 ├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
-├── Dataset-fashion-store-campaigns.csv        (Raw dataset)
-├── Dataset-fashion-store-channels.csv         (Raw dataset)
-├── Dataset-fashion-store-customers.csv        (Raw dataset)
-├── Dataset-fashion-store-products.csv         (Raw dataset)
-├── Dataset-fashion-store-sales.csv            (Raw dataset)
-├── Dataset-fashion-store-salesitems.csv       (Raw dataset)
-├── Dataset-fashion-store-stock.csv            (Raw dataset)
+├── European-Fashion-Store-Campaigns.csv        (Raw dataset)
+├── European-Fashion-Store-Channels.csv         (Raw dataset)
+├── European-Fashion-Store-Customers.csv        (Raw dataset)
+├── European-Fashion-Store-Products.csv         (Raw dataset)
+├── European-Fashion-Store-Sales.csv            (Raw dataset)
+├── European-Fashion-Store-Salesitems.csv       (Raw dataset)
+├── European-Fashion-Store-Stock.csv            (Raw dataset)
 ├── README.md                        (Project documentation)
 └── Previews/                        (Dashboard screenshot images)
     ├── ExecutiveOverview.PNG
