@@ -34,5 +34,5 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 * **Visuals:** KPI cards, trend lines, campaign revenue charts, pie chart by channel, map by country.
 * **Insights:** Summarizes business performance across time, channels, and geography for fast decision-making.
 
-![Executive Overview](Previews/ExecutiveOverview.png)
+![Executive Overview](Previews/Executive Overview.png)
 
