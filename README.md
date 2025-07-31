@@ -120,7 +120,7 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/teesta57/HR-Attrition-Analytics.git
+   git clone https://github.com/teesta57/Multitable-ECommerce-European-Fashion.git
    ```
 2. Open the `ECommerce-European-Fashion-Retail.pbix` file in Power BI Desktop.
 3. Explore the dashboard and apply filters to interact with the data.
