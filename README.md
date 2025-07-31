@@ -36,3 +36,82 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 
 ![Executive Overview](Previews/ExecutiveOverview.PNG)
 
+---
+
+### 2. Sales Deep Dive
+* **What it shows:** Campaign performance by sales and profit, discount type impact by channel, and campaign sales over time.
+* **Key metrics:** Campaign-wise total sales and profit.
+* **Visuals:** Clustered bar charts, stacked bar (discount type), trend line over time, horizontal stacked bar for duration.
+* **Insights:** Highlights top-performing campaigns and shows how discount types affect different channels.
+
+![Sales Deep Dive](Previews/SalesDeepDive.PNG)
+
+---
+
+### 3. Product & Inventory Analytics
+* **What it shows:** Sales and stock quantity by product, category profit margins, and stock by country.
+* **Key metrics:** Stock quantity, total sales, profit margin by category.
+* **Visuals:** Pie chart, stacked bars, combo charts (sales vs stock), colored matrix, scatter plot.
+* **Insights:** Identifies best-selling products, low-stock items, and high-margin categories to optimize inventory.
+
+![Product & Inventory Analytics](Previews/Product&InventoryAnalytics.PNG)
+
+---
+
+### 4. Campaign & Channel Performance
+* **What it shows:** Profit and sales by campaign, duration analysis across channels, and sales trends by campaign name.
+* **Key metrics:** Campaign profit, sales, and duration percentages.
+* **Visuals:** Bar charts, line chart, stacked duration bars.
+* **Insights:** Evaluates campaign effectiveness and compares which channels contributed most to campaign success.
+
+![Campaign & Channel Performance](Previews/Campaign&ChannelPerformance.PNG)
+
+---
+
+### 5. Customer Insights & Segmentation
+* **What it shows:** Active vs inactive customer distribution, sign-up trends, purchase frequency, and customer age demographics.
+* **Key metrics:** Active customer %, customer count by age, purchase frequency.
+* **Visuals:** Pie chart, line chart (signup trend), histograms, bar charts.
+* **Insights:** Highlights key customer segments, retention patterns, and areas for loyalty improvement.
+
+![Customer Insights & Segmentation](Previews/CustomerInsights&Segmentation.PNG)
+
+---
+
+## 📂 File Structure
+
+```
+.
+├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
+├── Dataset-fashion-store-campaigns.csv        (Raw dataset)
+├── Dataset-fashion-store-channels.csv
+├── Dataset-fashion-store-customers.csv
+├── Dataset-fashion-store-products.csv
+├── Dataset-fashion-store-sales.csv
+├── Dataset-fashion-store-salesitems.csv
+├── Dataset-fashion-store-stock.csv
+├── README.md                        (Project documentation)
+└── Previews/                        (Dashboard screenshot images)
+    ├── ExecutiveOverview.PNG
+    ├── SalesDeepDive.PNG
+    ├── Product&InventoryAnalytics.PNG
+    ├── Campaign&ChannelPerformance.PNG)
+    └── CustomerInsights&Segmentation.PNG
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
