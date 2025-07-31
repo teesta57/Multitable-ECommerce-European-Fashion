@@ -84,12 +84,12 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 .
 ├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
 ├── Dataset-fashion-store-campaigns.csv        (Raw dataset)
-├── Dataset-fashion-store-channels.csv
-├── Dataset-fashion-store-customers.csv
-├── Dataset-fashion-store-products.csv
-├── Dataset-fashion-store-sales.csv
-├── Dataset-fashion-store-salesitems.csv
-├── Dataset-fashion-store-stock.csv
+├── Dataset-fashion-store-channels.csv         (Raw dataset)
+├── Dataset-fashion-store-customers.csv        (Raw dataset)
+├── Dataset-fashion-store-products.csv         (Raw dataset)
+├── Dataset-fashion-store-sales.csv            (Raw dataset)
+├── Dataset-fashion-store-salesitems.csv       (Raw dataset)
+├── Dataset-fashion-store-stock.csv            (Raw dataset)
 ├── README.md                        (Project documentation)
 └── Previews/                        (Dashboard screenshot images)
     ├── ExecutiveOverview.PNG
@@ -98,6 +98,40 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
     ├── Campaign&ChannelPerformance.PNG)
     └── CustomerInsights&Segmentation.PNG
 ```
+
+---
+
+## ⚙️ Technologies Used
+
+* Microsoft Power BI Desktop
+
+---
+
+## 📊 Data Source
+
+* **Dataset Name:** Multitable Ecommerce European Fashion
+* **Source:** Kaggle
+* **Link:** [[https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset)
+
+---
+
+## 🚀 How to Use This Project
+
+1. Clone or download the repository:
+
+   ```bash
+   git clone https://github.com/teesta57/HR-Attrition-Analytics.git
+   ```
+2. Open the `ECommerce-European-Fashion-Retail.pbix` file in Power BI Desktop.
+3. Explore the dashboard and apply filters to interact with the data.
+
+---
+
+## 🤝 Contributing
+
+You're welcome to fork the project, explore the dataset, enhance visualizations, or suggest improvements.
+
+---
 
 
 
