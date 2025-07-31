@@ -24,3 +24,14 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 * **Actionable Insights** — Each page highlights business trends, sales drivers, inventory gaps, and campaign effectiveness to guide retail strategy.
 
 ---
+
+## 📈 Dashboard Pages
+
+### 1. Executive Overview
+
+* **What it shows:** High-level KPIs with sales and profit trends, campaign revenue by date, and channel performance.
+* **Key metrics:** Total sales, total profit, average order value, customer count.
+* **Visuals:** KPI cards, trend lines, campaign revenue charts, pie chart by channel, map by country.
+* **Insights:** Summarizes business performance across time, channels, and geography for fast decision-making.
+
+
