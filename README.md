@@ -95,7 +95,7 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
     ├── ExecutiveOverview.PNG
     ├── SalesDeepDive.PNG
     ├── Product&InventoryAnalytics.PNG
-    ├── Campaign&ChannelPerformance.PNG)
+    ├── Campaign&ChannelPerformance.PNG
     └── CustomerInsights&Segmentation.PNG
 ```
 
@@ -111,7 +111,7 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 
 * **Dataset Name:** Multitable Ecommerce European Fashion
 * **Source:** Kaggle
-* **Link:** [[https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset)
+* **Link:** [https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset)
 
 ---
 
